@@ -12,7 +12,8 @@ A web dashboard for monitoring the SYN-Attack-Suppressor-Routine
 #       --- SYN-Attack-Suppressor-Routine Dashboard ---        #
 #                                                              #
 # The following script creates a dashboard to view a server's  #
-# NETSTAT along with any IPs that are currently being blocked. #
+# NETSTAT along with any IPs that are currently being blocked  #
+# by the SYN-Attack-Suppressor-Routine.                        #
 #                                                              #
 # Set your web page path in the 'webpgpath=' parameter below.  #
 # Access the dashboard with https://yourDN.TDL/suppressor.html #
