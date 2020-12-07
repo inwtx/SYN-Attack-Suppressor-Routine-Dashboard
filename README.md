@@ -18,7 +18,7 @@ A web dashboard for monitoring the SYN-Attack-Suppressor-Routine
 # Set your web page path in the 'webpgpath=' parameter below.  #
 # Access the dashboard with https://yourDN.TDL/suppressor.html #
 #                                                              #
-# Retrieve stastics for server web page - cron job             #
+# Run this cronjob every minute to create web page:            #
 # */1 * * * * /path/to/SYN_RECV_Dashboard.sh                   #
 #--------------------------------------------------------------#
 
