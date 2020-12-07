@@ -19,7 +19,6 @@ A web dashboard for monitoring the SYN-Attack-Suppressor-Routine
 #                                                              #
 # Retrieve stastics for server web page - cron job             #
 # */1 * * * * /path/to/SYN_RECV_Dashboard.sh                   #
-#                                                              #
 #--------------------------------------------------------------#
 
 #top
